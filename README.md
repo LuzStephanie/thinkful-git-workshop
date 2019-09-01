@@ -3,7 +3,7 @@ This is a repo where a bunch of awesome students learned Git / GitHub and made t
 
 Feel free to add your name and GitHub handle below
 ___
-
+# git checkout . ( puts things back)
 (to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
 
 [Chris Bridges](https://github.com/chrisbridges)<br/>
@@ -56,5 +56,7 @@ ___
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
 Elif Demir
+
+[Luz Andrino](https://github.com/LuzStephanie/thinkful-git-workshop)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
